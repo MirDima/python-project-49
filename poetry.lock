@@ -1,12 +1,4 @@
 [[package]]
-name = "counter"
-version = "1.0.0"
-description = "Counter package defines the \"counter.Counter\" class similar to bags or multisets in other languages."
-category = "main"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "flake8"
 version = "5.0.4"
 description = "the modular source code checker: pep8 pyflakes and co"
@@ -54,12 +46,9 @@ python-versions = ">=3.6"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "b2bb351225ce7ae14746cdb1809880674a6a0fd4eb41e0e5baeea16ccde0ec2e"
+content-hash = "fe53fad7243cc9ac0642eb96d67128174151d25dbee353728609efd5b4c10465"
 
 [metadata.files]
-counter = [
-    {file = "Counter-1.0.0.tar.gz", hash = "sha256:9e008590e360936a66c98e1a01e7a9a0ecf6af19cc588107121f5fb4613bb60c"},
-]
 flake8 = [
     {file = "flake8-5.0.4-py2.py3-none-any.whl", hash = "sha256:7a1cf6b73744f5806ab95e526f6f0d8c01c66d7bbe349562d22dfca20610b248"},
     {file = "flake8-5.0.4.tar.gz", hash = "sha256:6fbe320aad8d6b95cec8b8e47bc933004678dc63095be98528b7bdd2a9f510db"},
