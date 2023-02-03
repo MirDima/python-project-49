@@ -17,6 +17,3 @@ def get_data():
         correct_answer = 'no'
     question = random_number
     return question, correct_answer
-
-
-
