@@ -22,4 +22,4 @@ def operator_result(num_one, operators, num_two):
         result = num_one - num_two
     if operators == '*':
         result = num_one * num_two
-    return result
+        return result
