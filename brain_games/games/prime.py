@@ -5,8 +5,8 @@ RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 RANGE_START = 2
 RANGE_STEP = 1
 
-LOWER_LIMIT = 1
-UPPER_LIMIT = 100
+MIN_NUMBER = 1
+MAX_NUMBER = 100
 
 
 def is_prime(random_number):
@@ -19,7 +19,7 @@ def is_prime(random_number):
 
 
 def get_data():
-    random_number = randint(LOWER_LIMIT, UPPER_LIMIT)
+    random_number = randint(MIN_NUMBER, MAX_NUMBER)
     if is_prime(random_number):
         correct_answer = 'yes'
     else:
