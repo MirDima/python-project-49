@@ -26,13 +26,14 @@ Games:
 
 <style>
 g { color: Green }
+b { color: Blue }
 </style>
 
-* __<g>Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
-* __<g>Brain Calculator__ (Answer what is the result of the expression?)
-* __<g>Brain GCD__ (Answer what is the greatest common divisor of given numbers)
-* __<g>Brain Progression__ (Answer what number is missing in the progression?)
-* __<g>Brain Prime__ (Answer "yes" if given number is prime, otherwise answer "no")
+* <g>__Brain Even__</g> (Answer "yes" if the number is even, otherwise answer "no")
+* <g>__<g>Brain Calculator__</g> (Answer what is the result of the expression?)
+* <g>__Brain GCD__</g> (Answer what is the greatest common divisor of given numbers)
+* <g>__Brain Progression__</g> (Answer what number is missing in the progression?)
+* <g>__Brain Prime__</g> (Answer "yes" if given number is prime, otherwise answer "no")
 
 They are launched with simple commands:*
 ```commandline
