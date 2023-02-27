@@ -55,6 +55,13 @@ The user is shown a random mathematical expression, such as 35 + 16, which must 
 
 [![asciicast](https://asciinema.org/a/563332.svg)](https://asciinema.org/a/563332)
 
+### Brain GCD 🕹
+The user is shown two random numbers, for example 25 and 50. The user must calculate and enter the greatest common divisor of these numbers.
+
+[![asciicast](https://asciinema.org/a/563334.svg)](https://asciinema.org/a/563334)
+
+
+
 
 
 
