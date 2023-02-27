@@ -25,7 +25,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 Games:
 
 
-The background color should be `#FF0000` for light mode and `#0d1117` for dark mode.
+The background color should be `#FF0000`.
 
 
 
