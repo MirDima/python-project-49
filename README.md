@@ -24,6 +24,8 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
+<font color="red">This text is red!</font>
+
 * $\text\Large{\color{#00A2E3}{Brain\ Even}}$ (Answer "yes" if the number is even, otherwise answer "no")
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
 * __Brain GCD__ (Answer what is the greatest common divisor of given numbers)
