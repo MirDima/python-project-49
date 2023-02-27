@@ -102,4 +102,4 @@ The user is shown a random number. And he needs to answer yes if the number is p
 ```
 <hr>
 
-### Good luck and have a fun game!
+### Good luck and have a fun game! 🤚
