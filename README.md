@@ -24,7 +24,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-* $$\text{\color{#00A2E3}{Brain\ Even}}$$ (Answer "yes" if the number is even, otherwise answer "no")
+* __$\text{\color{#00A2E3}{Brain\ Even}}$__ (Answer "yes" if the number is even, otherwise answer "no")
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
 * __Brain GCD__ (Answer what is the greatest common divisor of given numbers)
 * __Brain Progression__ (Answer what number is missing in the progression?)
