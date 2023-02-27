@@ -24,9 +24,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-
-The background color should be `#FF0000`.
-
+$${\color{green}Green}$$
 
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
