@@ -68,3 +68,38 @@ The user is shown a series of numbers with a missing number, forming an arithmet
 The user is shown a random number. And he needs to answer yes if the number is prime, or no if it is composite:
 
 [![asciicast](https://asciinema.org/a/563337.svg)](https://asciinema.org/a/563337)
+
+<hr>
+
+### 🌲Project file tree:
+
+```commandline
+.
+├── brain_games
+│   ├── engine_game.py
+│   ├── __init__.py
+│   ├── logic.py
+│   ├── scripts
+│   │   ├── brain_prime.py
+│   │   ├── brain_even.py
+│   │   ├── __init__.py
+│   │   ├── brain_games.py
+│   │   ├── brain_progression.py
+│   │   ├── brain_calc.py
+│   │   ├── cli.py
+│   │   └── brain_gcd.py
+│   └── games
+│       ├── progression.py
+│       ├── prime.py
+│       ├── even.py
+│       ├── gcd.py
+│       └── calc.py
+├── Makefile
+├── pyproject.toml
+├── README.md
+├── setup.cfg
+└── poetry.lock
+```
+<hr>
+
+### Good luck and have a fun game!
