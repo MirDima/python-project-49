@@ -24,8 +24,9 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-* __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
-* __Brain Calculator__ (Answer what is the result of the expression?)
+
+* __Brain Even__ (Answer $\text\Large{\color{#00A2E3}{"yes"}$ if the number is even, otherwise answer "no")
+* __<g>Brain Calculator__ (Answer what is the result of the expression?)
 * __Brain GCD__ (Answer what is the greatest common divisor of given numbers)
 * __Brain Progression__ (Answer what number is missing in the progression?)
 * __Brain Prime__ (Answer "yes" if given number is prime, otherwise answer "no")
@@ -43,7 +44,7 @@ brain-prime
 ### Demo:
 <hr>
 
-### __Brain even__
+### Brain even
 The idea of the game: the user is shown a random number. 
 And he should answer **yes** if the number is even, or **no** if it is odd:
 
