@@ -50,4 +50,11 @@ And he should answer **yes** if the number is even, or **no** if it is odd:
 
 [![asciicast](https://asciinema.org/a/563273.svg)](https://asciinema.org/a/563273)
 
+### Brain calculator 🕹
+The user is shown a random mathematical expression, such as 35 + 16, which must be calculated and write down the correct answer.
+
+[![asciicast](https://asciinema.org/a/563332.svg)](https://asciinema.org/a/563332)
+
+
+
 
