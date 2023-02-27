@@ -23,11 +23,8 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 **"Mind Games"** is a set of five console games based on the popular mobile brain-pumping apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again. 
 
 Games:
-<style>
-g { color: green }
-</style>
 
-<g>__Brain Even__</g> (Answer "yes" if the number is even, otherwise answer "no")
+<span style="color:green, font-weight:bold">Brain Even</span> (Answer "yes" if the number is even, otherwise answer "no")
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
 * __Brain GCD__ (Answer what is the greatest common divisor of given numbers)
 * __Brain Progression__ (Answer what number is missing in the progression?)
