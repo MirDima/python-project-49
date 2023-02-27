@@ -24,9 +24,9 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-`#F00`text
 
-- HEX: `#RGB[A]` or `#RRGGBB[AA]`
+The background color should be `#FF0000` for light mode and `#0d1117` for dark mode.
+
 
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
