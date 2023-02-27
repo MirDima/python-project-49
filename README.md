@@ -24,7 +24,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-{\color{B6321C} This text will appear red-colored}
+{\text`#0969DA`This text `#RRGGBB` will appear red-colored}
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
