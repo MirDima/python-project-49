@@ -24,9 +24,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
+<p><red> red color markdown text</red>
 
 * Brain Even (Answer "yes" if the number is even, otherwise answer "no")
 
