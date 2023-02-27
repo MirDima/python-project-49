@@ -43,7 +43,7 @@ brain-prime
 ### Demo:
 <hr>
 
-### Brain even
+### __Brain even__
 The idea of the game: the user is shown a random number. 
 And he should answer **yes** if the number is even, or **no** if it is odd:
 
