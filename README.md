@@ -24,11 +24,6 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-<style>
-g { color: Green }
-b { color: Blue }
-</style>
-
 * <g>__Brain Even__</g> (Answer "yes" if the number is even, otherwise answer "no")
 * <g>__<g>Brain Calculator__</g> (Answer what is the result of the expression?)
 * <g>__Brain GCD__</g> (Answer what is the greatest common divisor of given numbers)
