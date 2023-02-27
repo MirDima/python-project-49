@@ -24,7 +24,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-### $\{\color{#00A2E3}{This\ is\ a\ Big\ Title}}$
+* $\{\color{#00A2E3}{This\ is\ a\ Big\ Title}}$
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
