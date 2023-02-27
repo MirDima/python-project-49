@@ -24,7 +24,9 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-`#F00`
+`#F00`text`#F00`
+
+HEX: `#RGB[A]` or `#RRGGBB[AA]`
 
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
