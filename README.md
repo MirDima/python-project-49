@@ -24,9 +24,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-<svg>
-    <text x="0" y="15" fill="#4285f4">Brain Even</text>
-</svg>
+{\color[rgb]{1,0,0} This text will appear red-colored}
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
