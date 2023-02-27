@@ -47,8 +47,6 @@ brain-prime
 The idea of the game: the user is shown a random number. 
 And he should answer **yes** if the number is even, or **no** if it is odd:
 
-[<img alt="asciicast" height="700" src="https://asciinema.org/a/563273.svg" width="700"/>](https://asciinema.org/a/563273)
-
-
+[![asciicast](https://asciinema.org/a/563273.svg)](https://asciinema.org/a/563273)
 
 
