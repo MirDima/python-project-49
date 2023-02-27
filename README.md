@@ -60,6 +60,10 @@ The user is shown two random numbers, for example 25 and 50. The user must calcu
 
 [![asciicast](https://asciinema.org/a/563334.svg)](https://asciinema.org/a/563334)
 
+### Brain progression 🕹
+The user is shown a series of numbers with a missing number, forming an arithmetic progression. The player has to determine this number.
+
+[![asciicast](https://asciinema.org/a/563336.svg)](https://asciinema.org/a/563336)
 
 
 
