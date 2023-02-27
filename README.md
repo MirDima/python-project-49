@@ -24,7 +24,6 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-
 * __Brain Even__ (Answer __"yes"__ if the number is even, otherwise answer __"no"__)
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
 * __Brain GCD__ (Answer what is the greatest common divisor of given numbers)
