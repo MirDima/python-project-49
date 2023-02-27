@@ -64,7 +64,7 @@ The user is shown a series of numbers with a missing number, forming an arithmet
 
 [![asciicast](https://asciinema.org/a/563336.svg)](https://asciinema.org/a/563336)
 
+### Brain prime 🕹
+The user is shown a random number. And he needs to answer yes if the number is prime, or no if it is composite:
 
-
-
-
+[![asciicast](https://asciinema.org/a/563337.svg)](https://asciinema.org/a/563337)
