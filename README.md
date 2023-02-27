@@ -24,7 +24,7 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-<span style="color:red">cardinals</span>
+`#F00`
 
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
