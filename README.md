@@ -26,6 +26,12 @@ Games:
 
 ${\color{green}Green}$
 
+$\colorbox{red}{text}$
+
+Text inside bordered Box 
+
+$\fbox{Hello there}$
+
 
 * __Brain Even__ (Answer "yes" if the number is even, otherwise answer "no")
 * __<g>Brain Calculator__ (Answer what is the result of the expression?)
