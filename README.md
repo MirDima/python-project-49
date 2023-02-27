@@ -24,8 +24,8 @@ This is project ["Brain Games"](https://ru.hexlet.io/programs/python/projects/49
 
 Games:
 
-<div style="background-color:rgba(0, 0, 0, 0.04; padding:40px;">
-<a href="/donate">Brain Even </a> (Answer "yes" if the number is even, otherwise answer "no")
+<div style="text-color: blue">
+<a href="">Brain Even </a> (Answer "yes" if the number is even, otherwise answer "no")
 </div>
 
 
