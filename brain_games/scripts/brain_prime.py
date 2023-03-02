@@ -2,11 +2,11 @@
 
 
 from brain_games.games import prime
-from brain_games.logic import logic
+from brain_games.logic import run_logic
 
 
 def main():
-    logic(prime)
+    run_logic(prime)
 
 
 if __name__ == '__main__':
