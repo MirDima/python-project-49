@@ -1,11 +1,11 @@
 import prompt
 
 
-def logic(game):
+def run_logic(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print(game.RULES)
+    print(game.GAME_RULES)
     counter = 0
     score = 3
     while counter < score:
