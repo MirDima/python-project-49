@@ -1,7 +1,7 @@
 from random import randint
 from random import choice
 
-GAME_RULES = 'What is the result of the expression?'
+GAME_DESCRIPTION = 'What is the result of the expression?'
 MIN_NUMBER = 1
 MAX_NUMBER = 50
 
