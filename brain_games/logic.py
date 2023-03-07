@@ -3,12 +3,11 @@ import prompt
 
 score = 3
 
-
 def run_logic(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print(game.GAME_DESCRIPTION)
+    print(game.DESCRIPTION)
     game_attempt = 0
     while game_attempt < score:
         question, correct_answer = game.get_data()
