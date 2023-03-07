@@ -3,6 +3,7 @@ import prompt
 
 score = 3
 
+
 def run_logic(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
