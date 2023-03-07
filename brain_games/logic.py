@@ -1,7 +1,7 @@
 import prompt
 
 
-score = 3
+SCORE = 3
 
 
 def run_logic(game):
@@ -10,7 +10,7 @@ def run_logic(game):
     print(f'Hello, {name}!')
     print(game.DESCRIPTION)
     game_attempt = 0
-    while game_attempt < score:
+    while game_attempt < SCORE:
         question, correct_answer = game.get_data()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
